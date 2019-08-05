@@ -1,0 +1,17 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼îÇ†8ªçÓ›®-
+[squid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ªçÓ›®-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼îÇ†8ªçÓ›®-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßùä»8ªçÓ›®-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä»«ûÿÿÿÿ8ªçÓ›®-
+>squid:S2129" Remove this "String" constructor(ßùä»8ªçÓ›®-
+>squid:S2129" Remove this "String" constructor(ü•ÃÄ8ªçÓ›®-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼îÇ†8ªçÓ›®-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü•ÃÄ8ªçÓ›®-
+osquid:S00117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÖªz8ªçÓ›®-
+=squid:S2129	" Remove this "String" constructor(ÓÖªz8ªçÓ›®-
+psquid:S1192"RDefine a constant instead of duplicating this literal "Returned Value = " 3 times.(¼îÇ†8ªçÓ›®-
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±¢™ùÿÿÿÿ8‘µÜÂ¯-
